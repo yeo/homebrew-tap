@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 # baja formula :D
-class baja < Formula
+class Baja < Formula
   VERSION = '0.1'
   desc 'Fast and simple static site builder'
   homepage 'https://github.com/yeo/baja'
